@@ -4,7 +4,7 @@
 💻 Interested in Software Engineering, Design, ML, and entrepreneurship  
 🚀 Passionate about building scalable and impactful products
 
-🔧 ##Tech Stack
+🔧 Tech Stack
 - Languages: Python, Java, TypeScript/JavaScript
 - Tools: Git, Docker, Unix
 - Interests: Backend systems, ML applications, data-driven products
