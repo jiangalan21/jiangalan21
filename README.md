@@ -10,7 +10,7 @@
 - Interests: Backend systems, ML applications, data-driven products
 
 <h3>📌Connect with me</h3>
-<ul list-style="none">
+<ul class="list-none">
   <li>You can see my Portfolio <a href="https://www.linkedin.com/in/alan-jiang21/">here</a>!</p></li>
   <li><p><a href="https://www.linkedin.com/in/alan-jiang21/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a> https://www.linkedin.com/in/alan-jiang21/</p></li>
 </ul>
