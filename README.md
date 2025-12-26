@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! 👋, I'm Alan</h1>
+<h1 align="center"> Hi👋, I'm Alan!</h1>
 
 🎓 Computer Science student at UC San Diego  
 💻 Interested in Software Engineering, Design, ML, and entrepreneurship  
@@ -14,4 +14,3 @@
 
 <h3>📫 Connect with me</h3>
 <a href="https://www.linkedin.com/in/alan-jiang21/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>: https://www.linkedin.com/in/alan-jiang21/
-- Email: jiangalan21@gmail.com
