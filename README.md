@@ -1,4 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Alan </h1>
+<h1 align="center"> Hi! 👋 </h1>
+<h1 align="center">I'm Alan</h1>
 
 🎓 Computer Science student at UC San Diego  
 💻 Interested in Software Engineering, Design, ML, and entrepreneurship  
