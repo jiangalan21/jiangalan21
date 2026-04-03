@@ -1,13 +1,14 @@
 <h1 align="center"> Hi👋, I'm Alan!</h1>
 
 🎓 Computer Science student at UC San Diego  
-💻 Interested in Software Engineering, Design, ML, and entrepreneurship  
-🚀 Passionate about building scalable and impactful products
+💻 Interested in Fullstack/Backend Software Engineering, Design, AI/ML, and entrepreneurship  
+🚀 Passionate about building scalable backend systems that communicate and work together efficiently
 
 🔧 Tech Stack
-- Languages: Python, Java, TypeScript/JavaScript
+- Languages: Python, TypeScript/JavaScript, Java
+- Frameworks: Express/Node.js, REST, React, Flask, MCP
 - Tools: Git, Docker, Unix
-- Interests: Backend systems, ML applications, data-driven products
+- Interests: Distributed backend systems, AI agents, Deep/ML models, data-driven products
 
 <h3>📌Connect with me</h3>
 You can see my Portfolio <a href="jiangalan21.github.io">here</a>!</p>
